@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="lib/EV3WiFiClient.jar" destdir="/Users/xiangyunwang/Desktop/Week 6 Java Doc" doctitle="FinalProjectJavaDoc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="ca.mcgill.ecse211.final_project.Localizer,ca.mcgill.ecse211.final_project.Odometer,ca.mcgill.ecse211.final_project.finalproject,ca.mcgill.ecse211.final_project.IdentifyCan,ca.mcgill.ecse211.final_project.Test,ca.mcgill.ecse211.final_project.Sensor,ca.mcgill.ecse211.final_project.MapData,ca.mcgill.ecse211.final_project.Navigation" source="1.7" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
